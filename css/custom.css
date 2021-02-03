@@ -13,6 +13,7 @@
 
 .row {
     height: 100vh;
+    overflow: hidden;
 }
 
 .card {
@@ -44,3 +45,7 @@
 i {
     font-size: 80px;
 }
+
+/* .col-4 {
+    width: ;
+} */
